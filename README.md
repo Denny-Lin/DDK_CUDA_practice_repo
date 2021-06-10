@@ -5,3 +5,4 @@
 
 # References
 * https://docs.nvidia.com/cuda/index.html
+* https://en.wikipedia.org/wiki/Thread_block_(CUDA_programming)
