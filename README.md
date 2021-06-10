@@ -8,9 +8,9 @@
 * PyCUDA
 
 # Template
-'''
-zxc
-'''
+```python
+hello world!
+```
 
 # References
 * https://docs.nvidia.com/cuda/index.html
